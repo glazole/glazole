@@ -1,3 +1,5 @@
+![Data Science AI Banner](https://your-ai-generated-image.com)
+
 ## Hi there 👋
 
 ### **🌍 About Me**  
