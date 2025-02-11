@@ -25,7 +25,8 @@
 - **📂 Project & Knowledge Management**: Taiga 📋, ProjectLibre 📊, Outline Wiki 📝  
 - **🧠 Machine Learning & AI**: Reinforcement Learning (RL) 🎮, ML/AI Ops ⚙️, Classification, Clustering, Decision Trees 🌳, Neural Networks 🕸️  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glazole&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glazole&layout=compact&theme=radical) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glazole&show_icons=true&theme=radical)
+
 ---
 
 ### **🌍 О себе**  
