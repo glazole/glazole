@@ -1,4 +1,4 @@
-![AI Neural Network](https://github.com/glazole/glazole/blob/main/2a6a4acd-f3b5-4506-85e6-512408420d02.webp)
+![AI Neural Network](https://github.com/glazole/glazole/blob/main/cover.png)
 
 ## Hi, I'm Oleg Glazkov 👋
 
