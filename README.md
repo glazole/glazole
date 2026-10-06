@@ -1,41 +1,72 @@
 ![AI Neural Network](https://github.com/glazole/glazole/blob/main/2a6a4acd-f3b5-4506-85e6-512408420d02.webp)
 
+## Hi, I'm Oleg Glazkov 👋
 
-## Hi there 👋
+**Data Engineer | Data Platforms | AI & Applied Research**
 
-### **🌍 About Me**  
+I design and build data platforms, ETL/ELT pipelines, data quality systems,
+and data-driven services — from infrastructure and orchestration to
+production data processing.
 
-- 🌱 **I’m currently learning**: Data Science at **Innopolis University** (Master's program in **Data-Driven Management**), focusing on **Reinforcement Learning (RL) and ML/AI Ops**  
-- 👯 **I’m looking to collaborate on**: **AI-driven analytics, ETL pipelines, business process automation, and interactive AI applications**  
-- 🤔 **I’m looking for help with**: Expanding expertise in **deep learning, cloud-based AI solutions, and large-scale project management**  
-- 💬 **Ask me about**: **Data engineering, analytics, Apache Airflow, BI dashboards, automation, ML/AI Ops, and Reinforcement Learning**  
-- 📫 **How to reach me**: Open an issue in any of my public repositories on [GitHub](https://github.com/glazole) 🚀   
-- ⚡ **Fun fact**: I enjoy **solving complex data problems** and exploring **socially significant projects in healthcare and education** 🏥🎓  
+I hold a Master's degree with distinction from **Innopolis University**
+in **Data-Driven Management**.
+
+My current research interests lie at the intersection of
+**data engineering, artificial intelligence, digital twins, and healthcare**,
+with a particular focus on pharmaceutical supply chains, drug availability,
+and data-driven decision support.
+
+### 🔬 Research
+
+I am currently exploring methods for modelling pharmaceutical supply networks
+and evaluating their resilience to disruptions.
+
+One of my research directions is the development of a **digital twin of a
+pharmaceutical supply network** capable of modelling scenarios such as
+supplier or distributor disruptions and estimating their impact on regional
+drug availability.
+
+Research profiles:
+
+- [ORCID](https://orcid.org/0009-0003-5057-0466)
+- [Google Scholar](https://scholar.google.com/citations?user=Nk2KwNgAAAAJ)
+- [ResearchGate](https://www.researchgate.net/profile/Oleg-Glazkov)
+
+### 🛠️ Engineering
+
+My main areas of practice:
+
+- **Data Engineering:** Python, SQL, Apache Airflow, Apache Spark
+- **Data Platforms:** PostgreSQL, Apache Iceberg, S3-compatible storage
+- **Data Quality:** automated validation, data-quality pipelines, monitoring
+- **Infrastructure:** Linux, Docker, Nginx, Keycloak
+- **AI & ML:** PyTorch, LLM-based applications, embeddings, ML/AI pipelines
+- **Analytics:** BI systems, analytical data marts, Plotly
+
+### 🚀 Current interests
+
+- Data platform architecture
+- Data Quality automation
+- AI agents for data engineering
+- Digital twins and simulation
+- Pharmaceutical supply-chain resilience
+- Applied AI in healthcare
+
+### 📌 Selected projects
+
+- **Drug Shortage & Pharmaceutical Supply Research**  
+  Research tooling and evidence base for studying drug shortages,
+  pharmaceutical supply-chain resilience, and digital-twin approaches.
+
+- **Data Quality Automation**  
+  Approaches to automated and auditable data-quality control in production
+  data pipelines.
+
+- **Applied AI & Healthcare**  
+  Experiments with LLMs, embeddings, information retrieval, and
+  domain-specific data processing.
 
 ---
 
-### **🛠️ Tech Stack & Skills**  
-
-- **💻 Programming**: Python 🐍 (Pandas, NumPy, SQLAlchemy, PyTorch, Gradio 🤖), SQL  
-- **🔄 Data Engineering & ETL**: Apache Airflow 🌬️, PostgreSQL 🐘, MySQL 🛢️, MinIO 📦, Docker 🐳  
-- **📊 BI & Visualization**: Apache Superset, Plotly  
-- **🤖 Automation & Bots**: Telegram Bot API (pyTelegramBotAPI)  
-- **☁️ Cloud & Infrastructure**: Linux 🐧, Docker Compose, Nginx 🌐, HTTPS-Portal 🔒  
-- **🔐 Security & Authentication**: Keycloak 🏰, LDAP  
-- **📂 Project & Knowledge Management**: Taiga 📋, ProjectLibre 📊, Outline Wiki 📝  
-- **🧠 Machine Learning & AI**: Reinforcement Learning (RL) 🎮, ML/AI Ops ⚙️, Classification, Clustering, Decision Trees 🌳, Neural Networks 🕸️  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glazole&layout=compact&theme=radical) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glazole&show_icons=true&theme=radical)
-
----
-
-### **🌍 О себе**  
-
-- 🌱 **Сейчас обучаюсь**: **Data Science в Университете Иннополис** (магистратура, **управление на основе данных**), изучаю **Reinforcement Learning (RL) и ML/AI Ops**  
-- 👯 **Ищу сотрудничество в проектах**: **Аналитика на основе ИИ, ETL-пайплайны, автоматизация бизнес-процессов, интерактивные AI-приложения**  
-- 🤔 **Хочу прокачаться в**: **Глубоком обучении, облачных ИИ-решениях и управлении крупными проектами**  
-- 💬 **Спроси меня про**: **Инженерию данных, аналитику, Apache Airflow, BI-дэшборды, автоматизацию, ML/AI Ops и Reinforcement Learning**  
-- 📫 **Как связаться**: Напишите issue в любом из открытых репозиториев на [GitHub](https://github.com/glazole) 🚀
-- ⚡ **Факт обо мне**: Мне нравится **решать сложные задачи в данных** и участвовать в **социально значимых проектах в здравоохранении и образовании** 🏥🎓  
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glazole&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glazole&show_icons=true&theme=radical)
